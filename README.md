@@ -1,6 +1,5 @@
 # Geek_Buying_Clone
-This is a clone of the GeekBuying Website an e-commerce website. My first ever website site that I built along with the teammates that I got. This website was built for our unit-2 Masai School's construction week project.
-
+This is a clone of the GeekBuying Website an e-commerce website. Our team built it as our unit-2 Project for Masai School contruction week. The flow of the project was to make it as function as we could therefore adding the functionalities like multi-user sign-in/sign-out, search feature and navigation and many more.
 ## Tech Used
 
 - #### HTML
